@@ -1,144 +1,123 @@
-::: {align="center"}
-# 🌌 SiteGenius AI
 
-### ✨ Your Idea. Our AI. Your Website.
+::: {align="center"} `<img src="https://img.shields.io/badge/✨-SITEGENIUS%20AI-7C3AED?style=for-the-badge&labelColor=0B1020" alt="SiteGenius AI">`{=html} # 🌌 SiteGenius AI ### 💡 Your Idea. Our AI. Your Website. 🚀 **G'oyangizni yozing. AI yordamida o'z saytingizni yaratishni boshlang!** `<br>`{=html} `<img src="https://img.shields.io/badge/AI-Website%20Builder-8B5CF6?style=for-the-badge" alt="AI Website Builder">`{=html} `<img src="https://img.shields.io/badge/Design-Neon%20UI-06B6D4?style=for-the-badge" alt="Neon UI">`{=html} `<img src="https://img.shields.io/badge/Language-Uzbek-EC4899?style=for-the-badge" alt="Uzbek">`{=html} `<img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge" alt="In Development">`{=html} :::
+::: {align="center"} ## ✨ G'oyadan --- veb-saytgacha ✨ 🟦 **TASVIRLA**   ➜   🟪 **YARAT**   ➜   🩷 **KO'R**   ➜   🟩 **YUKLAB OL** :::
+🎯 01 --- Loyiha haqida
+SiteGenius AI --- foydalanuvchining matnli g'oyasi asosida veb-sayt
+yaratishga yordam berish uchun ishlab chiqilayotgan platforma.
 
-```{=html}
-<p>
-```
-`<strong>`{=html}🚀 G'oyangizni yozing --- o'z veb-saytingizni
-yaratishni boshlang!`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/AI-Website%20Builder-8B5CF6?style=for-the-badge" alt="AI Website Builder">`{=html}
-`<img src="https://img.shields.io/badge/HTML-CSS-JavaScript-06B6D4?style=for-the-badge" alt="HTML CSS JavaScript">`{=html}
-`<img src="https://img.shields.io/badge/Status-Development-EC4899?style=for-the-badge" alt="Development">`{=html}
-```{=html}
-</p>
-```
-:::💡 Loyiha haqida
-SiteGenius AI --- foydalanuvchi yozgan g'oya asosida veb-sayt
-yaratishga yordam berish uchun ishlab chiqilayotgan platforma. Maqsad
---- sayt yaratish jarayonini sodda, tushunarli va qulay qilish.
-
-Foydalanuvchi, masalan, quyidagicha so'rov yozishi mumkin:
+💬 Misol so'rov:
 "Menga qora va neon ranglarda, animatsiyali avtomobil sayti yarat.
 Unda mashinalar rasmlari, narxlar va aloqa bo'limi bo'lsin."
 
-Platformaning rejalashtirilgan imkoniyatlari:
-- 🎨 Zamonaviy va rang-barang interfeys
-- ✍️ Sayt g'oyasini matn orqali kiritish
-- 🧩 Sayt kodini yaratishga yordam berish
-- 👀 Yaratilgan sahifani oldindan ko'rish
-- 📦 Loyihani ZIP shaklida yuklab olish
-- 📱 Telefon va kompyuter ekranlariga mos dizayn
-- 🔮 Keyinchalik haqiqiy AI API va foydalanuvchi akkauntlarini ulash
-  imkoniyati
-Eslatma: AI generatsiyasi, backend, preview va ZIP yuklab olish
-imkoniyatlarining ishlashi loyiha kodiga hamda sozlamalarga bog'liq.
-Hozirgi versiyada demo rejimi ko'rsatilishi mumkin.
+🧩 Asosiy imkoniyatlar
+✨ Funksiya 📝 Tavsif
 
-🖥️ Texnologiyalar
-Loyihada ishlatilgan texnologiyalarni loyiha fayllari asosida
-tekshiring. Odatda bunday tuzilma quyidagilarni o'z ichiga olishi
-mumkin:
-- HTML --- sahifa tuzilishi
-- CSS --- ranglar, dizayn va moslashuvchan ko'rinish
-- JavaScript --- foydalanuvchi harakatlari
-- Node.js / npm --- agar backend mavjud bo'lsa, uni ishga
-  tushirish
-- AI API --- haqiqiy AI funksiyasi sozlanganda
-📁 Loyiha fayllari
-Fayllar loyiha versiyasiga qarab farq qilishi mumkin. Masalan:
-SiteGenius-AI/
-├── index.html
-├── style.css
-├── script.js
-├── package.json
-├── server.js
-├── .env.example
-└── README.md
-Muhim: yuqoridagi ro'yxat namunaviy. Faqat loyihangizda haqiqatda
-mavjud fayllardan foydalaning. server.js yoki .env.example bo'lmasa,
-ularni avtomatik ravishda mavjud deb hisoblamang.
-⚙️ Kompyuterda ishga tushirish
-1. Kerakli dasturlar
-- Node.js rasmiy sayti --- faqat loyiha
-  Node.js/npm talab qilsa.
-- Visual Studio Code --- kodlarni
-  ochish va tahrirlash uchun.
-2. Loyihani chiqarib olish
-Agar loyiha ZIP faylida bo'lsa:
-1. ZIP fayl ustiga o'ng tugma bosing.
-2. Extract All... / Извлечь все... ni tanlang.
-3. Chiqarilgan papkani VS Code'da File → Open Folder orqali oching.
-4. package.json mavjudligini tekshiring.
-3. Terminalda ishga tushirish
-VS Code'da Terminal → New Terminal ni oching.
+✍️ G'oya kiritish Istalgan turdagi saytni matn bilan
+tasvirlash
 
-Agar package.json mavjud bo'lsa, loyiha papkasida quyidagini bajaring:
+🤖 AI kod yaratish So'rov asosida sayt kodini
+generatsiya qilish
+
+👀 Live Preview Yaratilgan sahifani oldindan
+ko'rish
+
+🛠️ Kod bilan ishlash Kodni ko'rish va tahrirlash
+
+📦 ZIP eksport Loyiha fayllarini yuklab olish
+
+📱 Responsive dizayn Telefon va kompyuter ekranlariga
+moslashish
+
+⚠️ Loyiha holati: Ba'zi funksiyalar hozircha demo rejimida
+bo'lishi mumkin. Haqiqiy AI generatsiyasi uchun backend va AI API
+sozlanishi kerak.
+
+🎨 02 --- Brend va dizayn
+::: {align="center"} 🖤 Midnight 💙 Electric Blue 💜 Neon Violet 💗 Cyber Pink ------------- ------------------ ---------------- --------------- `#070B18` `#06B6D4` `#8B5CF6` `#EC4899` **Qora fon · Neon gradientlar · Silliq animatsiyalar · Zamonaviy interfeys** :::
+⚙️ 03 --- Texnologiyalar
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">{=html}
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">{=html}
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">{=html}
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">{=html}
+
+</p>
+HTML --- sahifa tuzilishi.
+CSS --- ranglar, dizayn va mobil moslashuv.
+JavaScript --- interaktiv funksiyalar.
+Node.js / npm --- loyiha backend talab qilsa.
+AI API --- haqiqiy AI integratsiyasi sozlanganda.
+Eslatma: texnologiyalar ro'yxatini loyihada amalda ishlatilayotgan
+vositalarga moslab yangilang.
+
+🚀 04 --- Ishga tushirish
+🧰 Kerakli dasturlar
+🟢 Node.js --- agar loyiha Node.js yoki npm
+talab qilsa.
+💙 Visual Studio Code --- kodlarni
+tahrirlash uchun.
+📥 1. Loyihani ochish
+ZIP faylni kompyuteringga saqla.
+ZIP ustiga o'ng tugma bos.
+Extract All... / Извлечь все... ni tanla.
+Chiqarilgan papkani VS Code'da File → Open Folder orqali och.
+📦 2. Paketlarni o'rnatish
+VS Code'da Terminal → New Terminal ni och. package.json joylashgan
+papkada quyidagini bajar:
+
 npm install
-So'ng package.json ichidagi scripts bo'limini tekshiring. Agar unda
-start skripti mavjud bo'lsa:
+▶️ 3. Serverni ishga tushirish
+Avval package.json ichidagi scripts bo'limini tekshir. Agar start
+skripti mavjud bo'lsa:
+
 npm start
-Agar start skripti bo'lmasa, npm start ishlamasligi mumkin. Bunday
-holatda package.json dagi mavjud skriptga mos buyruqdan foydalaning.
+Agar start mavjud bo'lmasa, npm start ishlamasligi mumkin. Loyihada
+ko'rsatilgan to'g'ri skriptdan foydalan.
 
-Terminalda http://localhost:... manzili ko'rsatilsa, shu manzilni
-brauzerda oching. Server ishlashi uchun terminal oynasini ochiq
-qoldiring.
-Agar sahifani index.html faylini ikki marta bosib ochsangiz,
-frontend ko'rinishi mumkin, ammo backend va AI funksiyalari avtomatik
-ishga tushmaydi.
+Terminalda http://localhost:... manzili chiqsa, uni brauzerda och.
+Server ishlashi uchun terminalni ochiq qoldir.
 
-🔐 AI API va xavfsizlik
-Haqiqiy AI generatsiyasini yoqish uchun mos AI provayderi, backend va
-API kaliti talab qilinishi mumkin.
-- API kalitini index.html yoki script.js ichiga yozmang.
-- Maxfiy kalitlarni server muhit o'zgaruvchilarida saqlang.
-- .env faylini GitHub'ga yuklamang.
-- Zarur bo'lsa, .gitignore ichiga .env qo'shing.
-- API sozlanmagan bo'lsa, demo rejimini haqiqiy AI deb ko'rsatmang.
-- Yaratilgan kodni ko'rsatishda xavfsiz preview usulidan foydalaning.
-🌐 Internetga joylashtirish
-Frontend va backend talablari bir-biridan farq qilishi mumkin.
-1. Loyihani GitHub repository'ga joylang.
-2. Faqat statik HTML/CSS/JavaScript bo'lsa, GitHub Pages yoki Netlify
-   kabi xizmatlardan foydalanish mumkin.
-3. Node.js backend kerak bo'lsa, Node.js ilovalarini qo'llaydigan
-   hosting tanlang.
-4. AI API kalitlarini hosting sozlamalaridagi environment variables
-   orqali kiriting.
-5. Saytni joylashtirgandan so'ng barcha tugmalar, formalar va AI
-   so'rovlarini tekshiring.
-Eslatma: bepul tariflar va limitlar o'zgarishi mumkin. Backend, AI
-API, ma'lumotlar bazasi yoki domen uchun xarajat chiqishi ehtimoli bor.
-🗺️ Rivojlantirish rejasi
-- [ ] Bosh sahifa dizaynini yakunlash
-- [ ] Sayt tavsifini kiritish formasini tekshirish
-- [ ] Backendni ishga tushirish
-- [ ] Haqiqiy AI API integratsiyasini sozlash
-- [ ] Kod preview funksiyasini xavfsiz qilish
-- [ ] ZIP eksport funksiyasini tekshirish
-- [ ] Foydalanuvchi loyihalarini saqlash
-- [ ] Mobil qurilmalarda sinovdan o'tkazish
-- [ ] Hostingga joylashtirish
-🤝 Hissa qo'shish
-Taklif yoki xato topsangiz, loyiha egasiga xabar bering. Kodni
-o'zgartirishdan oldin mavjud fayllarning zaxira nusxasini saqlash
-tavsiya etiladi.
-📜 Litsenziya
-Loyiha uchun litsenziya hali belgilanmagan bo'lsa, uni ochiq manbali
-loyiha deb hisoblamang. Tarqatish yoki tijoriy foydalanishdan oldin
-loyiha egasi belgilagan litsenziyani qo'shing.
-::: {align="center"}
-### 💜 SiteGenius AI
+💡 index.html faylini ikki marta bosib ochish frontendni ko'rsatishi
+mumkin, lekin backendni avtomatik ishga tushirmaydi.
 
-**Your Idea. Our AI. Your Website.**
+🔐 05 --- AI API va xavfsizlik
+Haqiqiy AI funksiyasi uchun AI provayderi va backend sozlamalari talab
+qilinishi mumkin.
 
-*Har bir katta loyiha bitta g'oyadan boshlanadi.* ✨
-:::
+🔒 API kalitlarini index.html yoki script.js ichiga yozma.
+🗝️ Maxfiy kalitlarni server muhit o'zgaruvchilarida saqla.
+🚫 .env faylini GitHub'ga yuklama.
+🧪 AI API ulanmagan bo'lsa, demo rejimini aniq ko'rsat.
+🛡️ Yaratilgan kodni preview qilishda xavfsiz muhitdan foydalan.
+📉 API limitlari va xarajatlarini nazorat qil.
+🌍 06 --- Internetga joylashtirish
+🧱 Loyiha turi 🌐 Mumkin bo'lgan variant
+
+Statik HTML/CSS/JS GitHub Pages yoki Netlify
+Backend bilan loyiha Node.js qo'llaydigan hosting
+AI API integratsiyasi Backend + maxfiy environment variables
+
+Eslatma: hosting tariflari, AI API va boshqa xizmatlar uchun
+xarajatlar bo'lishi mumkin. Joylashtirishdan oldin joriy limitlarni
+tekshir.
+
+🗺️ 07 --- Rivojlantirish rejasi
+🎨 Dizayn va mobil ko'rinishni yakunlash
+✍️ Sayt tavsifi formasini tekshirish
+⚙️ Backendni ishga tushirish
+🤖 AI API integratsiyasini sozlash
+👀 Preview funksiyasini xavfsiz qilish
+📦 ZIP eksportni tekshirish
+👤 Foydalanuvchi loyihalarini saqlash
+🧪 Funksiyalarni sinovdan o'tkazish
+🌐 Hostingga joylashtirish
+🤝 08 --- Hissa va aloqa
+Taklif yoki xato topsangiz, loyiha egasiga xabar bering. Katta
+o'zgarishlardan oldin kodlarning zaxira nusxasini saqlang.
+
+📜 09 --- Litsenziya
+Loyiha uchun litsenziya hali belgilanmagan bo'lsa, uni avtomatik
+ravishda ochiq manbali deb hisoblamang. Tarqatishdan oldin tegishli
+litsenziyani belgilang.
+
+::: {align="center"} ## 💜 SITEGENIUS AI ### 🌠 Your Idea. Our AI. Your Website. **Har bir katta loyiha bitta g'oyadan boshlanadi.** ✨ `<img src="https://img.shields.io/badge/Made%20with-💜%20and%20Code-8B5CF6?style=for-the-badge" alt="Made with love and code">`{=html} :::
